@@ -1,4 +1,4 @@
-## All India pincode
+## All India pincode - MySql Dump and xlsx file
 
 #### Number of Rocords: 1,55,599
 
