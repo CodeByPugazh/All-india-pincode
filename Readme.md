@@ -2,7 +2,7 @@
 
 #### Number of Rocords: 1,55,599
 
-Source: [All india pincode directory](https://data.gov.in/resources/all-india-pincode-directory)
+Source: [All india pincode directory](https://data.gov.in/resources/all-india-pincode-directory){:target="\_blank"}
 
 ##### To import Pincode file
 
